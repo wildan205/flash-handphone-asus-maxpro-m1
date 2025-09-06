@@ -14,7 +14,7 @@
 -  Jika sudah terkoneksi dengan baik silahkan masukan perintah ini : (fastboot flash recovery twrp.img)
 -  Jika telah selesai masukan lagi perintah ini : (fastboot reboot)
 # sudah terinstall
--  untuk bisa masuk ke Mode TWRP, kalian hanya perlu menekan tombol Volume Down (-) dan Power Berbarengan saat device kalin Power OFF, maka secara otomatis device kalian akan Booting ke Mode TWRP.
+-  untuk bisa masuk ke Mode TWRP, kalian hanya perlu menekan tombol Volume Down (-) dan Power Berbarengan saat device kalin Power OFF, maka secara otomatis device kalian akan Booting ke Mode TWRP
 
 # warning 
 - Penting ~ Jika terjadi Bootloop atau Brick setelah pemasangan TWRP tersebut, maka cara memperbaikinya ada di artikel ini Cara Atasi Bootloop Setelah Pasang TWRP Asus Zenfone Max Pro M1.
